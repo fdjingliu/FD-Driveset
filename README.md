@@ -1,8 +1,8 @@
-# FD-Driveset: A dataset for abnormal driving behavior detection
+# FD-Driveset: A dataset for abnormal driving behavior Identification
 
 # Description
 
-This data collected via IMU of smartphones, which can be used for driving behavior detection. The raw data is in json data format, , as shown in the figure below:
+This data collected via IMU of smartphones, which can be used for driving behavior Identification. The raw data is in json data format, , as shown in the figure below:
 
 ![](./imgs/json.png)
 
